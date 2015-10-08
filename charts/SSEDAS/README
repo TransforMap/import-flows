@@ -3,3 +3,8 @@ These are flowcharts for proposed workflows for the SSEDAS project.
 The source files are *.graphml, generated with the cross-platform yEd editor.
 
 another place to find stuff about SSEDAS is the TransforMap ownCloud in /TransforMap/Projects/SSEDAS/ (ask for access if you are a TransforMap contributor)
+
+
+Discussions about the charts can be found in Discourse:
+https://discourse.transformap.co/t/data-base-structure-suggestion-for-ssedas/665
+https://discourse.transformap.co/t/proposed-bulk-import-data-workflow-for-ssedas/672
