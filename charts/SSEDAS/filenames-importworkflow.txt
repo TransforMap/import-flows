@@ -1,0 +1,22 @@
+filenames for each phase
+
+partnername/
+  round1/
+    unmodified_template.xls
+    1_before_checks
+    2_ready_to_geocode
+    3.1_exactgeocoded.csv
+    3.2_onlyroad.csv
+    3.3_unsuccessful.csv
+    4_before_optional_checks.csv
+    5.1_attributes_unclear.csv
+    return_template.xls
+    5.2_ready_to_compare.csv
+    6.1_osm_new.csv
+    6.2_osm_to_merge.csv
+    7_merged_with_osm.osm.xml
+    8.1_for_transformap.osm.xml
+    8.2_for_osm.osm.xml
+    9.1_tm_new.osm.xml
+    9.2_tm_to_merge.osm.xml
+    10_merged_with_tm.osm.xml
